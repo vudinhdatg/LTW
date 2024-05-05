@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Id>10</Id>
+    <Gia>7600000</Gia>
+    <Tensp>ABC</Tensp>
+    <Url_img>img/mayGiat3.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>7</Id>
+    <Gia>7600000</Gia>
+    <Tensp>Máy giặt QZ</Tensp>
+    <Url_img>img/mayGiat3.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>6</Id>
+    <Gia>9300000</Gia>
+    <Tensp>Điều hòa funki</Tensp>
+    <Url_img>img/Dieuhoafunki.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>5</Id>
+    <Gia>8000000</Gia>
+    <Tensp>Điều hòa samsung </Tensp>
+    <Url_img>img/DieuhoaSamSung2.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>4</Id>
+    <Gia>9200000</Gia>
+    <Tensp>Điều hòa daiken r3</Tensp>
+    <Url_img>img/DieuhoaDaikin.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>3</Id>
+    <Gia>5400000</Gia>
+    <Tensp>Tủ lạnh SamSung</Tensp>
+    <Url_img>img/tulanhSamSung.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>2</Id>
+    <Gia>7400000</Gia>
+    <Tensp>Tivi Sony GPX</Tensp>
+    <Url_img>img/TiviSony.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>1</Id>
+    <Gia>8300000</Gia>
+    <Tensp>Tivi SamSung UHD</Tensp>
+    <Url_img>img/TiviSamSung.jpg</Url_img>
+  </Products>
+  <Products>
+    <Id>0</Id>
+    <Gia>5200000</Gia>
+    <Tensp>Máy Giặt Casper</Tensp>
+    <Url_img>img/MayGiatCasper.jpg</Url_img>
+  </Products>
+</ArrayOfProducts>

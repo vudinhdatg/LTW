@@ -1,0 +1,45 @@
+﻿
+.big {
+    display: flex;
+    width: auto;
+    margin: 10px auto;
+    height: auto;
+}
+
+.cot1 {
+    margin-right: 30px;
+    background-color: aliceblue;
+}
+
+.big a {
+    text-decoration: none;
+    color: #333e48;
+}
+
+img {
+    width: 100%;
+}
+
+.big .cot1 .dong1 {
+    width: 220px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.big .cot1 img {
+    width: 25px;
+}
+
+.dong1 {
+    padding: 5px;
+    cursor: pointer;
+}
+
+    .dong1:hover {
+        background-color: rgb(237, 229, 229);
+        border-radius: 6px;
+    }
+
+    .dong1 .cottrai1 {
+        margin-right: 6px;
+    }
